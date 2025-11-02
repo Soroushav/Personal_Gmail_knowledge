@@ -1,3 +1,5 @@
 .env
 venv
 *.json
+vector_db
+Emails
